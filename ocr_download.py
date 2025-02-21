@@ -6,3 +6,4 @@ print("OCR initialized successfully!")
 print("Downloading the model...")
 
 # just trying what to do?
+# second commit
