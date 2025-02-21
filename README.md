@@ -1,5 +1,6 @@
 # OCR Project
 
+
 ## Overview
 This project is an OCR (Optical Character Recognition) tool that allows users to capture a portion of their screen and extract text from it using the PaddleOCR library. The extracted text is displayed in a floating window and copied to the clipboard.
 
