@@ -4,5 +4,3 @@ ocr = PaddleOCR(lang='en')  # Use 'multilingual' if needed
 print("OCR initialized successfully!")
 
 print("Downloading the model...")
-
-##this is a new update
